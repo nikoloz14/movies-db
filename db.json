@@ -1,0 +1,103 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Breaking Bad",
+            "date": "20 January 2008",
+            "language": "English",
+            "seasons": 8,
+            "cast": [
+                {
+                    "id": 1,
+                    "fullName": "Bryan Cranston",
+                    "role": "Walter White",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTA2NjEyMTY4MTVeQTJeQWpwZ15BbWU3MDQ5NDAzNDc@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },
+                {
+                    "id": 2,
+                    "fullName": "Aaron Paul",
+                    "role": "Jesse Pinkman",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU0NTk3MDQ3OV5BMl5BanBnXkFtZTcwNDY3NzQ4Mg@@._V1_UY317_CR4,0,214,317_AL_.jpg"
+                },                
+                {
+                    "id": 3,
+                    "fullName": "Anna Gunn",
+                    "role": "Skyler White",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTY1OTY5NjI5NV5BMl5BanBnXkFtZTcwODA4MjM0OA@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Game of Thrones",
+            "date": "17 April 2011",
+            "language": "English",
+            "seasons": 8,
+            "cast": [
+                {
+                    "id": 4,
+                    "fullName": "Peter Dinklage",
+                    "role": "Tyrion Lannister",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM1MTI5Mzc0MF5BMl5BanBnXkFtZTYwNzgzOTQz._V1_UY317_CR20,0,214,317_AL_.jpg"
+                },
+                {
+                    "id": 5,
+                    "fullName": "Lena Headey",
+                    "role": "Cersei Lannister",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMzIwMjIwNjg0M15BMl5BanBnXkFtZTgwOTI3MDEzMDE@._V1_UY317_CR14,0,214,317_AL_.jpg"
+                },                
+                {
+                    "id": 6,
+                    "fullName": "Emilia Clarke",
+                    "role": "Daenerys Targaryen",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjg3OTg4MDczMl5BMl5BanBnXkFtZTgwODc0NzUwNjE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Friends",
+            "date": "22 September 1994",
+            "language": "English",
+            "seasons": 10,
+            "cast": [
+                {
+                    "id": 7,
+                    "fullName": "Jennifer Aniston",
+                    "role": "Rachel Green",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNjk1MjIxNjUxNF5BMl5BanBnXkFtZTcwODk2NzM4Mg@@._V1_UY317_CR3,0,214,317_AL_.jpg"
+                },
+                {
+                    "id": 8,
+                    "fullName": "Courteney Cox",
+                    "role": "Monica Geller",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTA4OTczNDExNDNeQTJeQWpwZ15BbWU3MDUyNTIzMTM@._V1_UY317_CR7,0,214,317_AL_.jpg"
+                },                
+                {
+                    "id": 9,
+                    "fullName": "Lisa Kudrow",
+                    "role": "Phoebe Buffay",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTU5OTA0ODcxNl5BMl5BanBnXkFtZTcwMjE3NjQxMw@@._V1_UY317_CR8,0,214,317_AL_.jpg"
+                },                 
+                {
+                    "id": 10,
+                    "fullName": "Matt LeBlanc",
+                    "role": "Joey Tribbiani",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BODQ0NTI0OTk0M15BMl5BanBnXkFtZTcwMDk2MDg5Nw@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                },               
+                {
+                    "id": 11,
+                    "fullName": "Matthew Perry",
+                    "role": "Chandler Bing",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMwODc5NjI3N15BMl5BanBnXkFtZTcwNDEyMTE3Mw@@._V1_UY317_CR17,0,214,317_AL_.jpg"
+                },               
+                {
+                    "id": 12,
+                    "fullName": "David Schwimmer",
+                    "role": "Dr. Ross Geller",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2Mjg5ODIzNF5BMl5BanBnXkFtZTgwNjIwMjI0ODE@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                }
+            ]
+        }
+    ]
+}
