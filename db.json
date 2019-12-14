@@ -98,6 +98,33 @@
                     "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQ2Mjg5ODIzNF5BMl5BanBnXkFtZTgwNjIwMjI0ODE@._V1_UX214_CR0,0,214,317_AL_.jpg"
                 }
             ]
+        },
+        {
+            "id": 4,
+            "title": "Brooklyn Nine-Nine",
+            "date": "17 September 2013",
+            "language": "English",
+            "seasons": 8,
+            "cast": [
+                {
+                    "id": 13,
+                    "fullName": "Andy Samberg",
+                    "role": "Jake Peralta",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDg3NDk3ODI0Ml5BMl5BanBnXkFtZTgwOTE3MTE4NTM@._V1_UY317_CR7,0,214,317_AL_.jpg"
+                },
+                {
+                    "id": 14,
+                    "fullName": "Andre Braugher",
+                    "role": "Captain Ray Holt",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTIyNTIwOTY5N15BMl5BanBnXkFtZTcwMTE2NzU3MQ@@._V1_UY317_CR3,0,214,317_AL_.jpg"
+                },                
+                {
+                    "id": 15,
+                    "fullName": "Terry Crews",
+                    "role": "Terry Jeffords",
+                    "imageUrl": "https://m.media-amazon.com/images/M/MV5BMjE1ODY0NzE4N15BMl5BanBnXkFtZTcwMTY5Mzk0Mw@@._V1_UX214_CR0,0,214,317_AL_.jpg"
+                }
+            ]
         }
     ]
 }
