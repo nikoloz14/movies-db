@@ -6,6 +6,7 @@
             "date": "20 January 2008",
             "language": "English",
             "seasons": 8,
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDZlMTdmNGYtNTZhOS00MGE3LWFhNzItNzg2OGY5MDZkNjliXkEyXkFqcGdeQXVyNjg0Nzk2Nzc@._V1_SY1000_SX1250_AL_.jpg",
             "cast": [
                 {
                     "id": 1,
@@ -33,6 +34,7 @@
             "date": "17 April 2011",
             "language": "English",
             "seasons": 8,
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTQwNjczNTc5M15BMl5BanBnXkFtZTcwMDA3MTcyNg@@._V1_.jpg",
             "cast": [
                 {
                     "id": 4,
@@ -60,6 +62,7 @@
             "date": "22 September 1994",
             "language": "English",
             "seasons": 10,
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmZmOTQ0NjgtNTI4OS00MWEzLTk3Y2ItNmVlNWY1Njc2MzYxXkEyXkFqcGdeQXVyODY0NzcxNw@@._V1_.jpg",
             "cast": [
                 {
                     "id": 7,
@@ -105,6 +108,7 @@
             "date": "17 September 2013",
             "language": "English",
             "seasons": 8,
+            "imageUrl": "https://m.media-amazon.com/images/M/MV5BZWQwZjExZjAtM2I2OS00NzFiLTlmNjUtNmZlOGUzMWJjYjk0XkEyXkFqcGdeQXVyNjc5NTc1MTg@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
             "cast": [
                 {
                     "id": 13,
